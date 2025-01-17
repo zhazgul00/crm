@@ -1,0 +1,15 @@
+# Исключение всех данных и временных файлов
+*.sql-dump
+*.sqlite
+*.db
+
+# Visual Studio Code файлы
+.vscode/
+*.code-workspace
+
+# Логи
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
